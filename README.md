@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <a href="http://qiita.com/torkralle">
     <img height="20" src="https://qiita-badge.apiapi.app/s/torkralle/posts.svg" />
   </a>
-  <//qiita.com/torkralle">
+  <a href="qiita.com/torkralle">
     <img height="20" src="https://qiita-badge.apiapi.app/s/torkralle/contributions.svg" />
   </a>
 </p>
