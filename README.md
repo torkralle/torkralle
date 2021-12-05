@@ -14,7 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> 
+  <a href="https://github.com/torkralle/torkralle/">
+    <img src="https://komarev.com/ghpvc/?username=torkralle" alt="torkralle" />
+  </a>
+  <a href="http://twitter.com/HoshikoYuya">
+    <img height="20" src="https://img.shields.io/twitter/follow/HoshikoYuya?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/torkralle">
+    <img height="20" src="https://img.shields.io/github/followers/torkralle?label=follow&logo=github&style=flat" />
+  </a>
+<!--   <a href="https://www.reddit.com/user/yutkat"> -->
+<!--     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" /> -->
+<!--   </a> -->
+<!--   <a href="https://stackoverflow.com/users/5720201/yutkat"> -->
+<!--     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" /> -->
+<!--   </a> -->
+  <a href="http://qiita.com/torkralle">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/torkralle/posts.svg" />
+  </a>
+  <//qiita.com/torkralle">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/torkralle/contributions.svg" />
+  </a>
+</p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torkralle)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torkralle&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
